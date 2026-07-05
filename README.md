@@ -1,2 +1,1 @@
-# angle-converter-cli
-CLI tool for converting angle units (degrees, radians, gradians)
+# Angle Converter CLI\nConvert between angle units like degrees (°), radians (rad), and gradians (grad).\n\nUsage: `angle-converter <value> <from-unit> <to-unit>`\nExample: `angle-converter 180 deg rad`
